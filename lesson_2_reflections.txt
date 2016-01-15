@@ -19,3 +19,7 @@ They help to see how branches relates one to another
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It brings all the changes made by different branches together.  
 Because the merge is now the child of the two branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging can help save time when merging code
+Manual intervention is still needed to resolve conflict
