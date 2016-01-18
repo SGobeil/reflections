@@ -3,3 +3,11 @@ When I want to share the repository with another user or when I'm working from m
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because you may have to do multiple commits before you're done with a modification.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are a copy of a repository that you would like to work on as another project and not something that is intended to be commited to the master branch of the original project.
+Clones are local copies of a repository to work on and that you intend to push or pull changes from/to the remote repository.
+Branches are, as the name states branches from the master to work on new features or to experiment with.  When you're satisfied with your work you can merge your branch with the master.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You know what changed since the last time you synced to the origin.
