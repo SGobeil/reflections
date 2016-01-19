@@ -15,3 +15,7 @@ You know what changed since the last time you synced to the origin.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I could use another versioning system or work from a shared drive.
 It would be easier to edit the files, but change tracking and collaboration would be harder.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you collaborate with others or when you experiment new features.
+Making changes to the separate branch ensure a stable master branch and facilitate collaboration. Making changes directly to master can make less things to manage in the repo.
